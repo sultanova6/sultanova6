@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sultanova6/sultanova6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](assets/pattern.png)
+
+## About me
+
+
+
+## Language and Tools
+
+## Follow me
+![mail](assets/mail.svg) sultanova.6@mail.ru
+
+![telegram](assets/teleg.svg) @sultanovadesign
+
+![phone](assets/tele.svg)
