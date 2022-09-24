@@ -17,13 +17,17 @@ Here are some ideas to get you started:
 
 ## About me
 
-
+I am writing projects in C, in the near future I will open a branch with tasks in C++. <br>
+I have a little experience in QT (in the SmartCalc_v1.0 project), I have experience in HTML, CSS. <br>
+I study queries in PostgreSQL at my leisure.
 
 ## Language and Tools
+
+C, C++(beginner)
 
 ## Follow me
 ![mail](assets/mail.svg) sultanova.6@mail.ru
 
 ![telegram](assets/teleg.svg) @sultanovadesign
 
-![phone](assets/tele.svg)
+![phone](assets/tele.svg) +7(987) 061 67-18
