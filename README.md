@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 I am writing projects in C, in the near future I will open a branch with tasks in C++. <br>
 I have a little experience in QT (in the SmartCalc_v1.0 project), I have experience in HTML, CSS. <br>
-I study queries in PostgreSQL at my leisure.
+I study queries in PostgreSQL at my leisure. <br>
 
 ## Language and Tools
 
-C, C++(beginner)
+C
 
 ## Follow me
 ![mail](assets/mail.svg) sultanova.6@mail.ru
