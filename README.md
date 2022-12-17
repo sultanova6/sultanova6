@@ -29,5 +29,3 @@ C
 ![mail](assets/mail.svg) sultanova.6@mail.ru
 
 ![telegram](assets/teleg.svg) @sultanovadesign
-
-![phone](assets/tele.svg) +7(987) 061 67-18
