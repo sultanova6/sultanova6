@@ -1,11 +1,5 @@
 ![header](img/img1.png)
 
-## About me
-I'm a student at School 21 from Sber. <br>
-I did projects in C, C++ and Devops. <br>
-Developing as a Frontend developer. <br>
-Have web-design skills. <br>
-
 ## Skills
 JavaScript, C, Postgresql
 
