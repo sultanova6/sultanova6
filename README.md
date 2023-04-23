@@ -1,7 +1,7 @@
 ![header](img/img1.png)
 
 ## Skills
-JavaScript, C, Postgresql
+HTML, CSS, JavaScript, C, Postgresql
 
 ## Contact me
 ![mail](img/mail.svg) sultanova.6@mail.ru <br>
