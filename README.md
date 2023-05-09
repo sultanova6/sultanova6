@@ -9,9 +9,9 @@ HTML, CSS, JavaScript, C, Postgresql
 ![telegram](img/teleg.svg) @gelectrl <br>
 
 ### Frontend projects:
-| Project name | Description | Tools |
-|-|-|-|
-| [ToDoList_JS](https://github.com/sultanova6/ToDoList_JS) | Task List. You can add, delete and edit a task. Also, if you try to add the same or an empty task, an error message pops up. | DOM, Instance methods, Web Storage API, HTML DOM API
+| Project name | Description | Tools | Link |
+|-|-|-|-|
+| [ToDoList_JS](https://github.com/sultanova6/ToDoList_JS) | Task List. You can add, delete and edit a task. Also, if you try to add the same or an empty task, an error message pops up. | DOM, Instance methods, Web Storage API, HTML DOM API | https://sultanova6.github.io/ToDoList_JS/ |
 <br>
 
 ### School projects:
