@@ -10,8 +10,8 @@ HTML, CSS, JavaScript, C, Postgresql
 
 ### Frontend projects:
 | Project name | Description | Tools | Link |
-|-|-|-|-|
-| [marathonJS](https://github.com/sultanova6/marathonJS) | Picture gallery, to-do list base, picture slider, glowing squares, reaction game | html, css, js |
+|||||
+| [marathonJS](https://github.com/sultanova6/marathonJS) | Picture gallery, to-do list base, picture slider, glowing squares, reaction game | html, css, js | References in the README |
 | [vueMarket(in progress)](https://github.com/sultanova6/vueMarket) | A Vue.js-based web application that allows users to browse and purchase products online.. | vue, vue cli, json-server, axios, getting data from the API, vuex store | npm run serve |
 | [ToDoList_JS](https://github.com/sultanova6/ToDoList_JS) | Task List. You can add, delete and edit a task. Also, if you try to add the same or an empty task, an error message pops up. | DOM, Instance methods, Web Storage API, HTML DOM API | https://sultanova6.github.io/ToDoList_JS/ |
 <br>
