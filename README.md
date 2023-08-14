@@ -17,7 +17,7 @@ HTML, CSS(SCSS/SASS), JavaScript(React), C, Postgresql
 <br>
 
 ### Statics
-|[![myrebean Github stats](https://github-readme-stats.vercel.app/api?username=myrebean&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=dark)](https://github.com/myrebean?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myrebean&layout=compact&hide_border=true&hide=vue,javascript,css,html,roff,scss&theme=dark)](https://github.com/myrebean?tab=repositories) |
+|[![sultanova6 Github stats](https://github-readme-stats.vercel.app/api?username=sultanova6&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=dark)](https://github.com/sultanova6?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sultanova6&layout=compact&hide_border=true&hide=vue,javascript,css,html,roff,scss&theme=dark)](https://github.com/sultanova6?tab=repositories) |
 |---|---|
 
 ### School projects
