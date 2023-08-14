@@ -8,7 +8,7 @@ HTML, CSS(SCSS/SASS), JavaScript(React), C, Postgresql
 
 ![telegram](img/teleg.svg) @gelectrl <br>
 
-### Frontend projects:
+### Frontend projects
 | Project name | Description | Tools | Link |
 | - | - | - | - |
 | [marathonJS](https://github.com/sultanova6/marathonJS) | Picture gallery, to-do list base, picture slider, glowing squares, reaction game | html, css, js | References in the README |
@@ -16,7 +16,11 @@ HTML, CSS(SCSS/SASS), JavaScript(React), C, Postgresql
 | [ToDoList_JS](https://github.com/sultanova6/ToDoList_JS) | Task List. You can add, delete and edit a task. Also, if you try to add the same or an empty task, an error message pops up. | DOM, Instance methods, Web Storage API, HTML DOM API | https://sultanova6.github.io/ToDoList_JS/ |
 <br>
 
-### School projects:
+### Statics
+|[![myrebean Github stats](https://github-readme-stats.vercel.app/api?username=myrebean&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=dark)](https://github.com/myrebean?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myrebean&layout=compact&hide_border=true&hide=vue,javascript,css,html,roff,scss&theme=dark)](https://github.com/myrebean?tab=repositories) |
+|---|---|
+
+### School projects
 | Project name | Description | Tools |
 |-|-|-|
 | [RetailAnalitycs v1.0](https://github.com/sultanova6/RetailAnalitycs_v1.0) | Making database with data about retailers' customers, and write the views and procedures needed to create personal offers | PostgreSQL
